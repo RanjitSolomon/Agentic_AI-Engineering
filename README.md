@@ -18,3 +18,7 @@ Agentic AI Frameworks - No Framework, MCP, OpenAIAgents SDK, CrewAI, LangGraph, 
 Read resume pdf and chat with LLM. Send messages to the phone for contact or if LLM unable to answer with "Pushover". globals(), **arguments,  
 
 
+## 2. OpenAI Agent SDK
+[](Intro_OpenAI_Agents_SDK.ipynb) 
+#### [Intro OpenAI Agents SDK](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/Intro_OpenAI_Agents_SDK.ipynb)
+Python async, await. OpenAI Agents SDK 
