@@ -22,3 +22,7 @@ Read resume pdf and chat with LLM. Send messages to the phone for contact or if 
 [](Intro_OpenAI_Agents_SDK.ipynb) 
 #### [Intro OpenAI Agents SDK](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/Intro_OpenAI_Agents_SDK.ipynb)
 Python async, await. OpenAI Agents SDK 
+
+[](AI_Sales_Agent_sending_emails.ipynb) 
+#### [AI Sales Agent sending emails](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/AI_Sales_Agent_sending_emails.ipynb) 
+OpenAI, SendGrid, Agents, HandOff, Agents write Cold Sales Emails, Pick the best email, Send using SendGrid. Your own website preferrable. 
