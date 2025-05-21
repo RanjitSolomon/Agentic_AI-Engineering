@@ -25,4 +25,8 @@ Python async, await. OpenAI Agents SDK
 
 [](AI_Sales_Agent_sending_emails.ipynb) 
 #### [AI Sales Agent sending emails](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/AI_Sales_Agent_sending_emails.ipynb) 
-OpenAI, SendGrid, Agents, HandOff, Agents write Cold Sales Emails, Pick the best email, Send using SendGrid. Your own website preferrable. 
+OpenAI, SendGrid, Tools, Agents, HandOff, Agents write Cold Sales Emails, Pick the best email, Send using SendGrid. Your own website preferrable. Function Decorator. 
+
+[](multimodel.ipynb)
+#### [multimodel](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/multimodel.ipynb) 
+Multi-Model: Gemini, DeepSeek, OpenAI, Llama, Guardrails(input, output), Structured Outputs
