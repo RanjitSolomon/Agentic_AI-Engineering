@@ -30,3 +30,9 @@ OpenAI, SendGrid, Tools, Agents, HandOff, Agents write Cold Sales Emails, Pick t
 [](multimodel.ipynb)
 #### [multimodel](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/multimodel.ipynb) 
 Multi-Model: Gemini, DeepSeek, OpenAI, Llama, Guardrails(input, output), Structured Outputs
+
+[](Deep_research.ipynb)
+#### [Deep Research](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/2_openai/Deep_research.ipynb)
+Deep Research agent.
+
+
