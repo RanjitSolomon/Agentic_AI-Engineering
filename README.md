@@ -36,3 +36,7 @@ Multi-Model: Gemini, DeepSeek, OpenAI, Llama, Guardrails(input, output), Structu
 Deep Research agent.
 
 
+## 3. CrewAI 
+[](crewai.ipynb)
+#### [CrewAI](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/crewai.ipynb)
+Debate, Financial Researcher, Stock Picker, Coder, Engineering Team.
