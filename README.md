@@ -40,3 +40,19 @@ Deep Research agent.
 [](crewai.ipynb)
 #### [CrewAI](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/crewai.ipynb)
 Debate, Financial Researcher, Stock Picker, Coder, Engineering Team.
+
+[](/debate)
+#### [/debate](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/debate)
+Debate files - config - agents.yaml, tasks.yaml, crew.py, main.py and Output folder
+
+[](/financial_researcher)
+#### [/financial_researcher](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/financial_researcher)
+
+[](/stock_picker)
+#### [/stock_picker](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/stock_picker)
+
+[](/coder)
+#### [/coder](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/coder)
+
+[](/engineering_team)
+#### [/engineering_team](https://github.com/RanjitSolomon/Agentic_AI-Engineering/blob/main/3_crewai/engineering_team)
